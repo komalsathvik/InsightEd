@@ -1,4 +1,4 @@
-# FAILSAFE — Faculty AI-powered Learning Safety & Early-warning System
+# InsightEd — Faculty AI-powered Learning Safety & Early-warning System
 
 > An intelligent early-warning platform that helps faculty identify at-risk students using Machine Learning (XGBoost + SHAP explainability), enabling timely, targeted interventions.
 
